@@ -1,0 +1,20 @@
+{
+  "name": "my-personal-portoflio",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "latest"
+  },
+    "keywords": [
+      "javascript",
+      "scss",
+      "html",
+      "css"
+    ],
+  
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
