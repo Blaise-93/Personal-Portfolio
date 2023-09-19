@@ -6,5 +6,8 @@ My two programming languages which I do use throughout my project are Javascript
 Frameworks which helps me fasten up my works which I am very good at are ReactJs, Django, FASTAPI and ExpressJS. Other vital tools I have quite used in my projects are SASS, Unittest, Jasmine Framework, Semantic UI React, Redux, Bootstrap, HTML5, CSS, Figma, Git/Github, SQL (like MySQL, PostgreSQL, Sqlite and MariaDB) and NoSQL (like MongoDB and Firebase)
 
 
+This responsive designed portfolio is written with HTML5, CSS, SCSS and JavaScript
+
+
 Thank you for checking out. My email contact is <ejikemeblaise08@gmail.com>!
 
